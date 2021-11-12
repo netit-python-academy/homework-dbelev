@@ -1,5 +1,4 @@
 import random
-from typing import get_origin
 number = random.randint(1,1000)
 
 guess = 0
